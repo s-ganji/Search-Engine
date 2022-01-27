@@ -23,5 +23,4 @@ Consider the axes of the Zipf rule diagram log^rank, log^cf, and the axes of the
 - To represent documents in vector space, a numerical vector for each document will be calculated using the tf-idf method, and finally each document will be represented as a vector containing the weights of all the words in that document. <br/>
 - Use the Index Elimination technique to represent documents in vector space to prevent overuse of space.<br/>
 - Extract the query vector with the user query. Then try to find the documents that have the most similarity (least distance) to the input query using the similarity criterion. Then display them in similar order. Different distance criteria can be considered for this purpose, the simplest of which is the cosine similarity between the vectors that calculates the angle between them.
-![image](https://user-images.githubusercontent.com/38253772/151370851-72647b38-575a-4e5c-bad6-f54ad1d5f962.png)
 
