@@ -1,5 +1,5 @@
 # Search-Engine
-Implementation of some parts of a search engine using Python programming language, Information Retrieval final course project, Spring 2019
+Implementation of some parts of a search engine using Python programming language, Information Retrieval final course project, Spring 2020
 ## Part 1
 At this stage of the project, you must fetch any news from the collection of input documents and take the necessary steps to create a reverse index. You must implement two cases with the following steps to index the collection of documents and build a dictionary:
 - First case
